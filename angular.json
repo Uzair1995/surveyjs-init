@@ -33,9 +33,12 @@
             ],
             "styles": [
               "src/styles.scss",
-              "node_modules/drawflow/dist/drawflow.min.css"
+              "node_modules/drawflow/dist/drawflow.min.css",
+              "src/assets/joint-plus/joint-plus.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/joint-plus/joint-plus.js"
+            ]
           },
           "configurations": {
             "production": {
